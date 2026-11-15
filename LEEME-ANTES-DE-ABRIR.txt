@@ -1,0 +1,11 @@
+WEBVERSE - VERSION ACTUALIZADA
+
+1. Conserva tu archivo primer-parcial.html tal como está. No se modifica ni se incluye en este paquete.
+2. Copia index.html, segundo-parcial.html y las carpetas css, js, img, video y audio a la carpeta principal donde está primer-parcial.html.
+3. Abre index.html con Live Server en Visual Studio Code.
+4. La canción es opcional: coloca tu archivo como audio/cancion.mp3. El navegador puede bloquear la reproducción automática con sonido; utiliza el botón para activarlo.
+5. El video original de WEBVERSE está en video/webverse-programacion.mp4 y ya está enlazado en las dos páginas.
+6. Las imágenes originales están en img/. No cambies sus nombres ni las rutas si quieres que se visualicen correctamente.
+7. El enlace al primer parcial apunta a primer-parcial.html. Si tu archivo tiene otro nombre, cambia únicamente ese href en index.html y segundo-parcial.html.
+
+El proyecto incluye imágenes con texto alternativo, enlaces internos y externos, listas, tabla, formulario, video, mensajes interactivos y estilos responsivos.
